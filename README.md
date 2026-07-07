@@ -13,7 +13,7 @@ YouTube's original theater mode (T) and fullscreen (F) remain untouched.
 
 ## Install
 
-Available on the [Chrome Web Store](https://chrome.google.com/webstore).
+Available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/nndgnhmkhnldembalbpcgbecdgbgjdoo).
 
 Or load manually:
 1. Clone this repo or download the ZIP
