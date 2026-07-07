@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube Pantalla Completa"
+  },
+  "appDescription": {
+    "message": "Press W for full-window mode, F for fullscreen, ESC to exit."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "Alternar ventana completa web"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "Alternar pantalla completa nativa"
+  },
+  "shortcut_exit_default": {
+    "message": "Salir a vista predeterminada"
+  }
+}

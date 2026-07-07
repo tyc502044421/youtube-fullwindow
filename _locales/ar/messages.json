@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube ملء الشاشة"
+  },
+  "appDescription": {
+    "message": "Press W for full-window mode, F for fullscreen, ESC to exit."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "تبديل ملء الشاشة على الويب"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "تبديل ملء الشاشة الأصلي"
+  },
+  "shortcut_exit_default": {
+    "message": "الخروج إلى العرض الافتراضي"
+  }
+}

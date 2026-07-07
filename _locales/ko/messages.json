@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube 전체 창"
+  },
+  "appDescription": {
+    "message": "W로 전체 창 모드, F로 전체 화면, ESC로 종료."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "웹 전체 창 전환"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "네이티브 전체 화면 전환"
+  },
+  "shortcut_exit_default": {
+    "message": "기본 보기로 종료"
+  }
+}

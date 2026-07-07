@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube Tela Cheia"
+  },
+  "appDescription": {
+    "message": "Press W for full-window mode, F for fullscreen, ESC to exit."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "Alternar janela cheia web"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "Alternar tela cheia nativa"
+  },
+  "shortcut_exit_default": {
+    "message": "Sair para visualização padrão"
+  }
+}

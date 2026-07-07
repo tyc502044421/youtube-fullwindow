@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube Toàn Màn Hình"
+  },
+  "appDescription": {
+    "message": "Press W for full-window mode, F for fullscreen, ESC to exit."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "Chuyển đổi cửa sổ đầy đủ web"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "Chuyển đổi toàn màn hình gốc"
+  },
+  "shortcut_exit_default": {
+    "message": "Thoát về chế độ xem mặc định"
+  }
+}

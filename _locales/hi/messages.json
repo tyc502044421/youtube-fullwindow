@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube फुल विंडो"
+  },
+  "appDescription": {
+    "message": "Press W for full-window mode, F for fullscreen, ESC to exit."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "वेब पूर्ण-विंडो टॉगल करें"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "नेटिव फुलस्क्रीन टॉगल करें"
+  },
+  "shortcut_exit_default": {
+    "message": "डिफ़ॉल्ट दृश्य पर वापस जाएं"
+  }
+}

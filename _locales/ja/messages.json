@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube 全画面表示"
+  },
+  "appDescription": {
+    "message": "Wキーでフルウィンドウ、Fで全画面、ESCで終了。"
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "ウェブ全画面表示を切り替え"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "ネイティブ全画面を切り替え"
+  },
+  "shortcut_exit_default": {
+    "message": "デフォルトビューに戻る"
+  }
+}

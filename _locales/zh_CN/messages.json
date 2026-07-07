@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube 网页全屏"
+  },
+  "appDescription": {
+    "message": "按 W 全屏窗口模式，F 全屏，ESC 退出。"
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "切换网页全屏"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "切换原生全屏"
+  },
+  "shortcut_exit_default": {
+    "message": "退出到默认视图"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube Vollbild-Modus"
+  },
+  "appDescription": {
+    "message": "Press W for full-window mode, F for fullscreen, ESC to exit."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "Web-Vollbild umschalten"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "Nativen Vollbildmodus umschalten"
+  },
+  "shortcut_exit_default": {
+    "message": "Zur Standardansicht zurückkehren"
+  }
+}

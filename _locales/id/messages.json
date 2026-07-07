@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "YouTube FullWindow"
+  },
+  "appDescription": {
+    "message": "Press W for full-window mode, F for fullscreen, ESC to exit."
+  },
+  "shortcut_toggle_fullwindow": {
+    "message": "Alihkan jendela penuh web"
+  },
+  "shortcut_toggle_fullscreen": {
+    "message": "Alihkan layar penuh native"
+  },
+  "shortcut_exit_default": {
+    "message": "Keluar ke tampilan default"
+  }
+}
